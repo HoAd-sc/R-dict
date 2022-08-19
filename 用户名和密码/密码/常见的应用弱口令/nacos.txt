@@ -1,0 +1,6 @@
+nacos/nacos
+demo/demo
+admin/admin
+admin/admin123
+admin/123456
+nacos/123456

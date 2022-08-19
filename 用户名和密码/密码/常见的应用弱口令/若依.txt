@@ -1,0 +1,4 @@
+admin/admin123
+ruoyi/ruoyi123
+guest/guest123
+test/test123

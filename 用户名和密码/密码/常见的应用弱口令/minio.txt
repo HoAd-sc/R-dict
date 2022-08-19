@@ -1,0 +1,5 @@
+minioadmin/minioadmin
+minio/admin
+minioadmin/minioadmin123
+admin/minio123
+minio/admin123

@@ -1,0 +1,5 @@
+admin/admin
+grafana/admin
+grafana/grafana
+admin/admin123
+admin/grafana

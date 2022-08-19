@@ -1,0 +1,2 @@
+zabbix/zabbix
+Admin/zabbix
